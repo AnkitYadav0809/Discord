@@ -2,9 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/***************/
-/*   Whitney   */
-/***************/
 
 @font-face {
   font-family: Whitney;
@@ -36,9 +33,7 @@
   src: url(fonts/Whitney/Whitney-700.woff) format("woff");
 }
 
-/***************/
-/*    Ginto    */
-/***************/
+
 
 @font-face {
   font-family: Ginto;
