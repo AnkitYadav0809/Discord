@@ -65,9 +65,6 @@
   src: url(fonts/Ginto/Ginto-700.woff) format("woff");
 }
 
-/****************/
-/* Ginto-Italic */
-/****************/
 
 @font-face {
   font-family: Ginto;
@@ -126,9 +123,7 @@
     url(fonts/Ginto-Nord/Ginto-Nord-700.woff) format("woff");
 }
 
-/***************/
-/*   gg sans   */
-/***************/
+
 @font-face {
   font-family: "ggSans";
   font-weight: 400;
